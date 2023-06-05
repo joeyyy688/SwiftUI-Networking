@@ -19,6 +19,7 @@
 		041E32F42A2D175F00CBD894 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		041E32F62A2D176100CBD894 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		041E32F92A2D176100CBD894 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		041E33002A2D665C00CBD894 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +56,7 @@
 				041E32F42A2D175F00CBD894 /* ContentView.swift */,
 				041E32F62A2D176100CBD894 /* Assets.xcassets */,
 				041E32F82A2D176100CBD894 /* Preview Content */,
+				041E33002A2D665C00CBD894 /* README.md */,
 			);
 			path = "SwiftUI-Networking";
 			sourceTree = "<group>";
